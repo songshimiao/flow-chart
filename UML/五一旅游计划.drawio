@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2024-04-16T06:16:13.304Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="BwwKfKbVp2FD2OP0wKql" version="24.2.5" type="device">
+  <diagram name="第 1 页" id="xEDGQ8H_qx6WeNDofDgR">
+    <mxGraphModel dx="1638" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cptUCIxMYEmID9bI8K3F-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 30px;&quot;&gt;五一大学生特种兵作战计划书&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="118" y="20" width="591" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="70" width="162" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-2" value="老宋头" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="cptUCIxMYEmID9bI8K3F-5">
+          <mxGeometry y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-3" value="高铁G244&lt;div&gt;4月30日&lt;br&gt;&lt;div&gt;08:15-16:35&lt;/div&gt;&lt;div&gt;婺源站下车&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="cptUCIxMYEmID9bI8K3F-5">
+          <mxGeometry x="42" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="308.5" y="70" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-4" value="娇娇子" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cptUCIxMYEmID9bI8K3F-9">
+          <mxGeometry y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-6" value="车次待定" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cptUCIxMYEmID9bI8K3F-9">
+          <mxGeometry x="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-12" target="cptUCIxMYEmID9bI8K3F-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;婺源&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="200" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="70" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" vertex="1" parent="cptUCIxMYEmID9bI8K3F-13">
+          <mxGeometry y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-10" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" vertex="1" parent="cptUCIxMYEmID9bI8K3F-13">
+          <mxGeometry x="40" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-11" value="车次待定" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="cptUCIxMYEmID9bI8K3F-13">
+          <mxGeometry x="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-6" target="cptUCIxMYEmID9bI8K3F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-3" target="cptUCIxMYEmID9bI8K3F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-11" target="cptUCIxMYEmID9bI8K3F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-17" target="cptUCIxMYEmID9bI8K3F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-17" value="篁岭" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-19" target="cptUCIxMYEmID9bI8K3F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-19" value="婺女洲" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-21" target="cptUCIxMYEmID9bI8K3F-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-21" value="景德镇" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="390" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-22" target="cptUCIxMYEmID9bI8K3F-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-22" value="各种陶瓷博物馆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="415" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-25" value="上饶" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="540" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cptUCIxMYEmID9bI8K3F-26" target="cptUCIxMYEmID9bI8K3F-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-26" value="望仙谷" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="550" y="565" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cptUCIxMYEmID9bI8K3F-29" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff3333&quot;&gt;注：初稿，需要确定到达时间；住宿地点（不清楚景区的游览时间）；&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff3333&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;不知道小众景点情况，上述景点小红书攻略褒贬不一&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="660" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
